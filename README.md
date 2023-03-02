@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="images/name-dark.svg#gh-dark-mode-only"/>
-    <img src="images/name-light.svg#gh-light-mode-only"/>
+    <img src="images/yigit-dark.svg#gh-dark-mode-only"/>
+    <img src="images/yigit-light.svg#gh-light-mode-only"/>
     <br><br>
     <a href="https://www.linkedin.com/in/yigitaksoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@yiitaksoy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
