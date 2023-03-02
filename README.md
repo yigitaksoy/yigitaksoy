@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-<b>I am a full stack software developer.</b>
+<b>I am a full stack software developer, and a blues guitar player 🎸 </b>
 <br>
 Keen on learning new products, and technologies to build innovative solutions that solve user needs, and helps making the world a better place.
 </p>
